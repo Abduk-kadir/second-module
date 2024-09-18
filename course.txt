@@ -1,0 +1,1 @@
+[{"course":"science","students":[{"name":"fatima","age":24},{"name":"falak","age":24},{"name":"firdosh","age":26}]}][{"course":"science","students":[{"name":"fatima","age":24},{"name":"falak","age":24},{"name":"firdosh","age":26}]},{"course":"math","students":[{"name":"fatima","age":24},{"name":"jeenat","age":24},{"name":"firdosh","age":26}]}]
